@@ -1,0 +1,22 @@
+{
+  "name": "filesaver.js-npm",
+  "version": "1.0.0",
+  "description": "An HTML5 saveAs() FileSaver implementation http://eligrey.com/blog/post/saving-generated-files-on-the-client-side",
+  "main": "FileSaver.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eligrey/FileSaver.js.git"
+  },
+  "keywords": [
+    "filesaver",
+    "saveas",
+    "blob"
+  ],
+  "author": "Eli Grey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eligrey/FileSaver.js/issues"
+  },
+  "homepage": "https://github.com/leosvelperez/FileSaver.js#readme"
+}
