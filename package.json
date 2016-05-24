@@ -1,6 +1,6 @@
 {
   "name": "filesaver.js-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An HTML5 saveAs() FileSaver implementation http://eligrey.com/blog/post/saving-generated-files-on-the-client-side",
   "main": "FileSaver.js",
   "scripts": {},
